@@ -1,0 +1,93 @@
+body{
+    background-color: white;
+    margin: 0em;
+    height: auto;
+    /* padding: 0; */
+
+}
+.container{
+    margin: 0em;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+h3{
+    color: gray;
+}
+
+.left{
+    float: left;
+    width: 49%;
+}
+.left img{
+    width: 100%;
+    margin: 0px;
+    /* height: 100%; */
+}
+.right{
+    background-color: #f2f2f2;
+    padding: 30px;
+    float: right;
+    overflow: hidden;
+    width: 49%;
+    align-content: center;
+}
+.logincard{
+inline-size: 0;
+    text-align: left;
+    margin: 20% 20%;
+    border: 1px solid rgb(4, 4, 4);
+    background-color: #fff;
+    padding: 20px;
+    width:50%;
+
+}
+
+#email{
+    padding: 10px;
+    width: 90%;
+}
+
+
+#button{
+    width: 95%;
+    text-align: center;
+    background-color: rgb(0, 73, 0);
+    color: white;
+    border: #fff;
+    font-size: medium;
+    padding: 10px;
+}
+#sign{
+    text-align: center;
+    color: gray;
+    text-decoration-line:inherit;
+}
+#creat{
+    text-decoration: none;
+    color: rgb(14, 144, 14);
+}
+#forp{
+    text-align: right;
+    color: rgb(0, 73, 0);
+    text-decoration: none;
+}
+.social-media img{
+    width: 1.5rem;
+}
+
+.linkedin{
+    margin-left: 7em;
+}
+
+.twitter{
+    margin-left: 0.5em;
+}
+
+.facebook{
+    margin-left: 0.5em;
+}
+
+.instagram{
+    margin-left: 0.5em;
+}
